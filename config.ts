@@ -1,4 +1,4 @@
-import {Device, NetworkStation} from "./types";
+import {Device, NetworkStation} from "./src/types";
 
 export const devices :Device[] = [
     {name: 'Device 1', locationX: 0, locationY: 0},

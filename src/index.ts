@@ -1,5 +1,5 @@
 import {NetworkSelectionService} from "./services/NetworkSelectionService";
-import {devices, networkStations} from "./config";
+import {devices, networkStations} from "../config";
 
 const service = new NetworkSelectionService();
 
